@@ -1,1 +1,7 @@
+||||||||||||||||||||||||||||||| let first with the boilerplates in html||||||||||||||||||||||||||||||||||||||||||||
+<html lang="en"> // this attribute is used for spesifing the language of text content in the element
+</html>
+<head> here we put the information about the meta element of our webpage (means elements which we need to use outside the website)
+eg: <meta charset="utf-8"> // setting a encoding is really important because it ensure that webpage will display our webpage's browsers tab 
 
+<title> this is useful by the user for browsing when multiple tab are open in browser
